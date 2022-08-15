@@ -1,9 +1,8 @@
 body {
     background: #111;
     position: relative;
-    left: 45%;
+    left: 20%;
     top: 15px;
-    overflow: hidden;
 }
 
 #top {
@@ -191,7 +190,7 @@ body {
 
 #rod {
     width: 10px;
-    height: 450px;
+    height: 750px;
     background: #874a21;
     position: relative;
     top: -152px;
@@ -210,11 +209,11 @@ body {
     border-bottom: 4px solid #148809;
     border-radius: 4px;
     display: block;
-    width: 250px;
-    height: 150px;
+    width: 500px;
+    height: 510px;
     position: relative;
-    left: 100px;
-    top: -400px;
+    left: 50px;
+    top: -730px;
     -webkit-animation: text_anim 4.5s infinite;
     animation: text_anim 4.5s infinite;
 }
